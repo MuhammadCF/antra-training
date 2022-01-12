@@ -1,4 +1,4 @@
-package com.example.java23il2021.week4.ioc;
+package week2.ioc;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
